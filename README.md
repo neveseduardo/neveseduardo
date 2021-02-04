@@ -14,12 +14,13 @@ Estou em busca de desenvolver projetos incriveis, desde o menor e mais simples a
  <br/> 💬  &nbsp;  Sobre mim: Curto tecnologias, gosto de ler, gosto de viajar, sou natural do Rio de Janeiro, mas cresci em Belém do Pará.
 Sou apaixonado por tecnologias e amo desenvolver projetos com soluções de qualidade, Atualmente estou desenvolvendo como Front-end e as principais stacks de tecnologia que utilizo são React.Js, React-Native e no back-end com o Node.js.
 
+ 
 ## :email:  Entre em contato comigo:
 [![Linkedin Badge](https://img.shields.io/badge/-neveseduardoti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/neveseduardoti/)](https://www.linkedin.com/in/neveseduardoti/)
 [![Gmail Badge](https://img.shields.io/badge/-neveseduardoti@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:neveseduardoti@gmail.com)](mailto:neveseduardoti@gmail.com)
-![](https://img.shields.io/badge/eduardo.neves%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)(https://www.instagram.com/eduardo.neves/)
-![](https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white)(https://www.facebook.com/baraodaguerra/)
-![](https://img.shields.io/badge/Medium%20-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white)(https://medium.com/@neveseduardoti)
+[![Instagram Badge](https://img.shields.io/badge/eduardo.neves%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/eduardo.neves/)
+[![Facebbok Badge](https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/baraodaguerra/)
+[![Medium Badge](https://img.shields.io/badge/Medium%20-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@neveseduardoti)
 
 <br></br>
 ## :computer: Minhas linguagens, ferramentas & frameworks:
