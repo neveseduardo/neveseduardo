@@ -1,4 +1,4 @@
-<img align="center" width="auto" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwall.alphacoders.com%2Fbig.php%3Fi%3D499787%26lang%3DPortuguese&psig=AOvVaw1c-u5Q5TeVd3aaCPuScWgb&ust=1612540448679000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKDm97jL0O4CFQAAAAAdAAAAABAV">
+<img align="center" width="auto" src="https://images7.alphacoders.com/499/thumb-1920-499787.png">
 
 # Eduardo Neves
 
