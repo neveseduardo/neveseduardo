@@ -16,8 +16,8 @@ Sou apaixonado por tecnologias e amo desenvolver projetos com soluções de qual
 
  
 ## :email:  Entre em contato comigo:
-[![Linkedin Badge](https://img.shields.io/badge/-neveseduardoti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/neveseduardoti/)](https://www.linkedin.com/in/neveseduardoti/)
-[![Gmail Badge](https://img.shields.io/badge/-neveseduardoti@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:neveseduardoti@gmail.com)](mailto:neveseduardoti@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neveseduardoti/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neveseduardoti@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/eduardo.neves%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/eduardo.neves/)
 [![Facebbok Badge](https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/baraodaguerra/)
 [![Medium Badge](https://img.shields.io/badge/Medium%20-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@neveseduardoti)
