@@ -1,4 +1,4 @@
-<img align="center" width="auto" src="https://images7.alphacoders.com/499/thumb-1920-499787.png">
+<img align="center" width="auto" src="http://www.atenaeducacional.com.br/wp-content/uploads/2019/09/designthinkingatena.png">
 
 # Eduardo Neves
 
