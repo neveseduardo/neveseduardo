@@ -1,4 +1,4 @@
-<img align="center" width="auto" src="http://www.atenaeducacional.com.br/wp-content/uploads/2019/09/designthinkingatena.png">
+<!-- <img align="center" width="auto" src="http://www.atenaeducacional.com.br/wp-content/uploads/2019/09/designthinkingatena.png"> -->
 
 # I am Eduardo Neves ! :sunglasses:
 
