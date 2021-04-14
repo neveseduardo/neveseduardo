@@ -10,14 +10,25 @@
 
 ## Hi everyone! 👋  
 <br />
+I am a consultant of customized solutions in a multinational company and a fullstack developer for more than 5 years. <br />
+I am convinced that direct and transparent relations, combined with technical capacity are capable of determining the success of a project! <br />
+In the last year I have been working exclusively with powerful multiplatform development tools and I believe that this is the path to success in the area of programming. <br/>
 
-Sou consultor de soluções customizadas em multinacional e desenvolvedor fullstack a mais de 5 anos. <br />
-Tenho a convicção que relações diretas e transparentes, aliadas a capacidade técnica são capazes de determinar o sucesso de um projeto! <br />
-No último ano tenho trabalhado exclusivamente com ferramentas poderosas de desenvolvimento multiplataforma e acredito que este é o caminho para o sucesso na área da programação. <br/>
+: rocket: I graduated in ** Computer Science ** in 2019 and since then I have faced the challenges head on and been successful. <br />
+: notebook: & nbsp; In constant learning, and constant updating of tools to become a prepared professional. <br />
+: blush: & nbsp; Ready to find the solutions you need, automating actions and making processes less bureaucratic. <br />
 
-:rocket: 	Me graduei em **Ciências da computação** em 2019 e desde então tenho encarado de frente os desafios e obtendo sucesso. <br />
-:notebook:  &nbsp;		Em constante aprendizado, e constante atualização das ferramentas para me tornar um profissional preparado. <br />
-:blush:  &nbsp;		Pronto para achar as soluções que você precisa, automatizando ações e desburocratizando processos. <br />
+#### :heart_eyes: What i like:
+- :hamburger: Hamburger
+- :movie_camera: Movies and Series
+- :jp: Animes and Mangás
+- :computer: Code (Of course!)
+<!--#### :office: Where i'm current working:-->
+
+#### :notebook: I'm current studying:
+- Node.js
+- ReactJS
+- React Native
 
 ## :computer: My skills:
 
@@ -58,7 +69,12 @@ No último ano tenho trabalhado exclusivamente com ferramentas poderosas de dese
 
 ## My Stats
 
-![Eduardo's github stats](https://github-readme-stats.vercel.app/api?username=neveseduardo&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neveseduardo&bg_color=30,e96443,904e95&text_color=fff&count_private=false&icon_color=fff&title_color=fff&hide_border=true)
+![Eduardo's github stats](https://github-readme-stats.vercel.app/api?username=neveseduardo&count_private=true&show_icons=true&line_height=40&icon_color=08a045&title_color=6bbf59&text_color=08a045&bg_color=2e294e&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neveseduardo&count_private=true&show_icons=true&line_height=40&icon_color=323232&title_color=6bbf59&text_color=08a045&bg_color=2e294e&hide_border=true)
+
+#### :heart: Favorite's Repositories
+
+it's a secret... Sorry.
 
 ## Portfólio online
 https://github.com/neveseduardo/portfolio
