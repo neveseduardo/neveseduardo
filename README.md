@@ -1,6 +1,6 @@
 <img align="center" width="auto" src="http://www.atenaeducacional.com.br/wp-content/uploads/2019/09/designthinkingatena.png">
 
-# :v: Eduardo Neves ! <img src="https://github.com/rnanc/rnanc/blob/master/assets/iconfinder_obiwan-kenobi_1626629.svg" width="30">
+# :godmode: I am Eduardo Neves ! 
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neveseduardoti/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neveseduardoti@gmail.com)
@@ -12,18 +12,20 @@
 <br />
 I am a consultant of customized solutions in a multinational company and a fullstack developer for more than 5 years. <br />
 I am convinced that direct and transparent relations, combined with technical capacity are capable of determining the success of a project! <br />
-In the last year I have been working exclusively with powerful multiplatform development tools and I believe that this is the path to success in the area of programming. 
-<br/>
+In the last year I have been working exclusively with powerful multiplatform development tools and I believe that this is the path to success in the area of programming. <br/>
 
-:rocket: I graduated in **Computer Science** in 2019 and since then I have faced the challenges head on and been successful. <br />
+:rocket: I graduated in **Computer Science** in 2019 :mortar_board: and since then I have faced the challenges head on and been successful. <br />
 :notebook: &nbsp; In constant learning, and constant updating of tools to become a prepared professional. <br />
 :blush: &nbsp; Ready to find the solutions you need, automating actions and making processes less bureaucratic. <br />
 
 #### :heart_eyes: What i like:
-- :hamburger: Hamburger
-- :movie_camera: Movies and Series
-- :jp: Animes and Mangás
+- :woman: My girlfriend
+- :hamburger: :pizza: :fries: Eat
+- :tv: Movies and Series
+- :art: Animes and Mangás
+- :video_game: Video games
 - :computer: Code (Of course!)
+
 <!--#### :office: Where i'm current working:-->
 
 #### :notebook: I'm current studying:
