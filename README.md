@@ -1,6 +1,6 @@
 <img align="center" width="auto" src="http://www.atenaeducacional.com.br/wp-content/uploads/2019/09/designthinkingatena.png">
 
-# I am Eduardo Neves ! :godmode:
+# I am Eduardo Neves ! :sunglasses:
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neveseduardoti/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neveseduardoti@gmail.com)
