@@ -12,7 +12,8 @@
 <br />
 I am a consultant of customized solutions in a multinational company and a fullstack developer for more than 5 years. <br />
 I am convinced that direct and transparent relations, combined with technical capacity are capable of determining the success of a project! <br />
-In the last year I have been working exclusively with powerful multiplatform development tools and I believe that this is the path to success in the area of programming. <br/>
+In the last year I have been working exclusively with powerful multiplatform development tools and I believe that this is the path to success in the area of programming. 
+<br/>
 
 :rocket: I graduated in **Computer Science** in 2019 and since then I have faced the challenges head on and been successful. <br />
 :notebook: &nbsp; In constant learning, and constant updating of tools to become a prepared professional. <br />
