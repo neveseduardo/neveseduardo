@@ -26,9 +26,11 @@ In the last year I have been working exclusively with powerful multiplatform dev
 <!--#### :office: Where i'm current working:-->
 
 #### :notebook: I'm current studying:
-- Node.js
-- ReactJS
+- Vuejs
+- Reactjs
 - React Native
+- Laravel framework
+- What's new in languages and frameworks
 
 ## :computer: My skills:
 
