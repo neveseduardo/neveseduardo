@@ -81,7 +81,7 @@ In the last year I have been working exclusively with powerful multiplatform dev
 
 #### :heart: Favorite's Repositories
 
-it's a secret... Sorry.
+it's a secret... Sorry. My favorite projects are private.
 
 ## Portfólio online
 https://github.com/neveseduardo/portfolio
