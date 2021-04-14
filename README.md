@@ -1,29 +1,27 @@
 <img align="center" width="auto" src="http://www.atenaeducacional.com.br/wp-content/uploads/2019/09/designthinkingatena.png">
 
-# Eduardo Neves
+# :v: Eduardo Neves ! <img src="https://github.com/rnanc/rnanc/blob/master/assets/iconfinder_obiwan-kenobi_1626629.svg" width="25">
 
-## Oi, eu sou o Eduardo 👋
-<br />
-
-Sou consultor de soluções customizadas em multinacional e desenvolvedor fullstack a mais de 5 anos. <br />
-Tenho a convicção que relações diretas e transparentes, aliadas a capacidade técnica são capazes de determinar o sucesso de um projeto! <br />
-No último ano tenho trabalhado exclusivamente com ferramentas poderosas de desenvolvimento multiplataforma e acredito que este é o caminho para o sucesso na área da programação. <br/>
-
-:rocket: me graduei em **Ciências da computação** em 2019 e desde então tenho encarado de frente os desafios e obtendo sucesso. <br />
-:notebook:  &nbsp; Em constante aprendizado, e constante atualização das ferramentas para me tornar um profissional preparado. <br />
-:blush:  &nbsp; Pronto para achar as soluções que você precisa, automatizando ações e desburocratizando processos. <br />
-
- 
-## :email:  Entre em contato comigo:
 [![Linkedin Badge](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neveseduardoti/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neveseduardoti@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/eduardo.neves%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/eduardo.neves/)
 [![Facebbok Badge](https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/baraodaguerra/)
 [![Medium Badge](https://img.shields.io/badge/Medium%20-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@neveseduardoti)
 
-## :computer: Meus conhecimentos:
+## Hi everyone! 👋  
+<br />
 
-### Linguagens e frameworks
+Sou consultor de soluções customizadas em multinacional e desenvolvedor fullstack a mais de 5 anos. <br />
+Tenho a convicção que relações diretas e transparentes, aliadas a capacidade técnica são capazes de determinar o sucesso de um projeto! <br />
+No último ano tenho trabalhado exclusivamente com ferramentas poderosas de desenvolvimento multiplataforma e acredito que este é o caminho para o sucesso na área da programação. <br/>
+
+:rocket: 	Me graduei em **Ciências da computação** em 2019 e desde então tenho encarado de frente os desafios e obtendo sucesso. <br />
+:notebook:  &nbsp;		Em constante aprendizado, e constante atualização das ferramentas para me tornar um profissional preparado. <br />
+:blush:  &nbsp;		Pronto para achar as soluções que você precisa, automatizando ações e desburocratizando processos. <br />
+
+## :computer: My skills:
+
+### Languages & frameworks
 ![](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
@@ -46,17 +44,21 @@ No último ano tenho trabalhado exclusivamente com ferramentas poderosas de dese
 ![](https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white)
 ![](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
 
-### Banco de dados:
+### Databases:
 ![](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white)
 ![](https://img.shields.io/badge/sqlserver-%2307405e.svg?&style=for-the-badge&logo=sqlserver&logoColor=white)
 
-### Desenvolvimento/Ambientes
+### Development/Environment
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+
+## My Stats
+
+![Eduardo's github stats](https://github-readme-stats.vercel.app/api?username=neveseduardo&bg_color=30,e96443,904e95&text_color=fff&count_private=true&show_icons=true&line_height=40&icon_color=fff&title_color=fff&hide_border=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neveseduardo&bg_color=30,e96443,904e95&text_color=fff&count_private=false&icon_color=fff&title_color=fff&hide_border=true)
 
 ## Portfólio online
 https://github.com/neveseduardo/portfolio
