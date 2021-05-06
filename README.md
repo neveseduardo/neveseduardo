@@ -81,7 +81,7 @@ In the last year I have been working exclusively with powerful multiplatform dev
 
 #### :heart: Favorite's Repositories
 
-it's a secret... Sorry. My favorite projects are private.
+[![Ecommerce template](https://github-readme-stats.vercel.app/api/pin/?username=ooleteam&repo=ooleAPI&show_icons=true&line_height=40&icon_color=08a045&title_color=6bbf59&text_color=08a045&bg_color=2e294e&hide_border=true)](https://github.com/neveseduardo/ecommerce)
 
 ## Portfólio online
 https://github.com/neveseduardo/portfolio
