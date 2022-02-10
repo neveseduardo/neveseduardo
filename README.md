@@ -10,7 +10,7 @@
 
 ## Hi everyone! 👋  
 <br />
-I am a consultant of customized solutions in a multinational company and a fullstack developer for more than 5 years. <br />
+I am a consultant of customized solutions in a national company and a fullstack developer for more than 5 years. <br />
 I am convinced that direct and transparent relations, combined with technical capacity are capable of determining the success of a project! <br />
 In the last year I have been working exclusively with powerful multiplatform development tools and I believe that this is the path to success in the area of programming. <br/>
 
