@@ -46,12 +46,6 @@ My goal is always to deliver software that will still make sense years later.
 
 ---
 
-## 📊 Activity
-
-![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=neveseduardo&show_icons=true)
-
----
-
 ## 📫 Contact
 
 - GitHub: https://github.com/neveseduardo  
