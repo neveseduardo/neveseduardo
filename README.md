@@ -55,7 +55,7 @@ My goal is always to deliver software that will still make sense years later.
 ## 📫 Contact
 
 - GitHub: https://github.com/neveseduardo  
-- LinkedIn: [https://www.linkedin.com/in/SEU-LINK-AQUI](https://www.linkedin.com/in/neveseduardoti/)  
+- LinkedIn: [neveseduardoti](https://www.linkedin.com/in/neveseduardoti/)  
 - Email: neveseduardoti@gmail.com.com  
 
 ---
