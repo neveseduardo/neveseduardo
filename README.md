@@ -1,83 +1,63 @@
-# 👋 Hey, I'm Eduardo Neves
+# 👋 Hi, I'm Eduardo Neves
 
-Full Stack Developer focused on building clean, scalable, and well-structured applications.
+Software Engineer and Full Stack Developer with solid experience building reliable systems for real business needs.
 
-I like solving real problems with simple and efficient solutions — always balancing code quality and business needs.
-
----
-
-## 🚀 About Me
-
-- 💻 +7 years working as a Full Stack Developer  
-- 🧠 Strong background in web applications and system integration  
-- 🎯 Focused on maintainability, performance, and good DX (Developer Experience)  
-- 🤝 I value clear communication and collaborative environments  
+Over the years, I’ve learned that good software is not just about writing code — it’s about communication, responsibility, and long-term thinking.
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 Professional Summary
+
+- Full Stack Developer with 5+ years of experience  
+- Background in corporate and consulting environments  
+- Strong focus on maintainable and scalable systems  
+- Experience working with cross-functional teams  
+- Used to dealing with legacy systems and modern stacks  
+
+I’m comfortable working from system design to production delivery.
+
+---
+
+## 🛠️ Technical Stack
 
 **Backend**
-- PHP (Laravel)
-- Node.js (NestJS)
-- C#
+PHP (Laravel) • Node.js (NestJS) • C#
 
 **Frontend**
-- JavaScript / TypeScript
-- Vue.js
-- HTML / CSS
+JavaScript • TypeScript • Vue.js
 
 **Databases**
-- MySQL
-- PostgreSQL
-- MongoDB
+MySQL • PostgreSQL • MongoDB
 
-**Tools & Others**
-- Git / GitHub
-- Docker
-- Linux / WSL
-- CI/CD
-- REST APIs
+**DevOps & Tools**
+Docker • Git • CI/CD • Linux • WSL • REST APIs
 
 ---
 
-## 📌 Featured Projects
+## 🧭 How I Work
 
-Here are some projects I’m proud of:
+- I care about code readability and structure  
+- I prioritize solutions that are easy to maintain  
+- I try to understand business context before coding  
+- I communicate clearly and take ownership  
+- I prefer consistency over “clever” solutions  
 
-- 🚧 **Laravel Template**  
-  Laravel + Vite + Vue + TypeScript starter kit
-
-- ⚙️ **NestJS Base**  
-  Backend boilerplate with authentication and best practices
-
-- 🧩 **JavaScript Helpers**  
-  Collection of reusable utilities
-
-> Check my repositories to see more 👇
+My goal is always to deliver software that will still make sense years later.
 
 ---
 
-## 📈 GitHub Stats
+## 📊 Activity
 
-![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=neveseduardo&show_icons=true&theme=default)
-
----
-
-## 🌱 Currently Learning
-
-- Software architecture
-- Cloud services
-- Performance optimization
-- Advanced TypeScript patterns
+![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=neveseduardo&show_icons=true)
 
 ---
 
-## 📫 Let's Connect
+## 📫 Contact
 
-- 💼 LinkedIn: *add your link here*
-- 📧 Email: *add your email here*
+- GitHub: https://github.com/neveseduardo  
+- LinkedIn: [https://www.linkedin.com/in/SEU-LINK-AQUI](https://www.linkedin.com/in/neveseduardoti/)  
+- Email: neveseduardoti@gmail.com.com  
 
 ---
 
-> “Good code is easy to read, easy to test, and easy to change.”
+If you’re looking for someone who takes quality and responsibility seriously, feel free to reach out.
