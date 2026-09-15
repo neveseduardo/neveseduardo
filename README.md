@@ -8,7 +8,7 @@ Over the years, I’ve learned that good software is not just about writing code
 
 ## 👨‍💻 Professional Summary
 
-- Full Stack Developer with 7+ years of experience  
+- Full Stack Developer with 8+ years of experience  
 - Background in corporate and consulting environments  
 - Strong focus on maintainable and scalable systems  
 - Experience working with cross-functional teams  
